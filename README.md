@@ -1,13 +1,13 @@
-Opa Beleza? Marco Antônio aqui, para os mais tranquilos e sossegados, pode chamar de Marcola!! 👋
+Opa Beleza? Marcos Vinicius aqui, para os mais tranquilos e sossegados, pode chamar de Marcola!! 👋
 
 - 🌱 Estudando Linguagem Java!!!
 - &#129409; Estudando Python!!!
 
 <div align="center">
   <a href="https://github.com/MarcosVxny">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosVxny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVxny&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosVxny&theme=dracula&hide_border=false">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosVxny&show_icons=true&theme=black_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVxny&layout=compact&langs_count=7&theme=black"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosVxny&theme=black_border=false">
 </div>
 
 <div style="display: inline_block"><br>
@@ -19,7 +19,7 @@ Opa Beleza? Marco Antônio aqui, para os mais tranquilos e sossegados, pode cham
   <img align="center" alt="MarcosVinicius-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="MarcosVinicius-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="MarcosVinicius-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-   <img align="right" alt="MarcosVinicius-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/123275048?v=4" />
+   <img align="right" alt="MarcosVinicius-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/7e/63/db/7e63dbeb5ef6d50b73d0d4875371e6b2.jpg" />
 </div>
   
   ##
