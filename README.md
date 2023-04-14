@@ -6,8 +6,8 @@ Opa Beleza? Marco Antônio aqui, para os mais tranquilos e sossegados, pode cham
 <div align="center">
   <a href="https://github.com/MarcosVxny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosVxny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVxny&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosVxny&theme=dracula&hide_border=false">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVxny&layout=compact&langs_count=7&theme=white"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosVxny&theme=black_border=false">
 </div>
 
 <div style="display: inline_block"><br>
