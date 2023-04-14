@@ -6,8 +6,8 @@ Opa Beleza? Marcos Vinicius aqui, para os mais tranquilos e sossegados, pode cha
 <div align="center">
   <a href="https://github.com/MarcosVxny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosVxny&show_icons=true&theme=white_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVxny&layout=compact&langs_count=7&theme=white"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosVxny&theme=white_border=false">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVxny&layout=compact&langs_count=10&theme=white"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosVxny&theme=white_border=black">
 </div>
 
 <div style="display: inline_block"><br>
