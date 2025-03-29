@@ -1,8 +1,7 @@
-Opa Beleza? Marcos Vinicius aqui, para os mais tranquilos e sossegados, pode chamar de Marcola!! 👋
+Opa, Beleza? 👋
 
-- 🌱 Estudando Linguagem Java!!!
-- &#129409; Estudando Python!!!
-
+- 🌱 Estudando JavaScript !!
+  
 <div align="center">
   <a href="https://github.com/MarcosVxny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosVxny&show_icons=true&theme=white_all_commits=true&count_private=true"/>
