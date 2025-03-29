@@ -1,6 +1,6 @@
 Opa, Beleza? 👋
 
-- 🌱 Estudando JavaScript !!
+Estudando JavaScript !!
   
 <div align="center">
   <a href="https://github.com/MarcosVxny">
